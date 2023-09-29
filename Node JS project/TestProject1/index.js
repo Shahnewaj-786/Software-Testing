@@ -22,3 +22,6 @@ console.log(a);
 let b = 33;
 b = null; // for remove variable
 console.log(b);
+
+let t = "one"
+console.log(t);
